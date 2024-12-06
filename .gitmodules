@@ -1,0 +1,3 @@
+[submodule "auth-start"]
+	path = auth-start
+	url = https://github.com/eyeoverthink/auth-start.git
